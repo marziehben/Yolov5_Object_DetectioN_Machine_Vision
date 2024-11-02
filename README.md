@@ -5,4 +5,5 @@ some pictures created with different shape & resolution & another changes.
 the member of sample batch is a few(3 pic), So just one picture was detected well.
 this model will develope and upgrade to Yolov8 With new repository.
 ![pictest1](https://github.com/user-attachments/assets/ee39a29d-9863-43b0-8919-c9c6e4bb2300)
-![Uploading pictest1.jpg…]()
+
+![pictest1](https://github.com/user-attachments/assets/ee0dc09d-a036-49ab-8939-8f09bb17241b)
