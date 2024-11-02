@@ -1,0 +1,2 @@
+# Yolov5_Object_DetectioN_Machine_Vision
+Yolov5_Object_Detection_Machine_Vision for detect some failure modes on electronic boards
